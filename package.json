@@ -1,0 +1,19 @@
+{
+  "name": "cloud-developer",
+  "version": "1.0.0",
+  "description": "content for Udacity's cloud developer nanodegree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr3zioo/cloud-developer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr3zioo/cloud-developer/issues"
+  },
+  "homepage": "https://github.com/mr3zioo/cloud-developer#readme"
+}
